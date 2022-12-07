@@ -18,7 +18,7 @@ body {
     width: 370px;
     height: 200px;
     margin: auto auto;
-    padding: 5px 25px 25px 25px;
+    padding: 1px 25px 25px 25px;
     display: flex;
     justify-content: space-around;
     align-items: center;
