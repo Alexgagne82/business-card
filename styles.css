@@ -18,13 +18,13 @@ body {
     width: 370px;
     height: 200px;
     margin: auto auto;
-    padding: 1px 25px 25px 25px;
+    padding: 5px 25px 25px 25px;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background: #e3d5ca;
-    color: #242D32;
-    border-top: 25px solid #242D32;
+    background: #f2e9e4;
+    color: #9a8c98;
+    border-top: 20px solid #9a8c98;
     border-radius: 10px;
     box-shadow: 5px 5px 5px grey;
 }
